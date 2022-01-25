@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github.com/mnuridemir/mnuridemir/blob/main/programmer.gif?raw=true" width="320" height="320" />
+<img align="left" src="https://github.com/mnuridemir/mnuridemir/blob/main/programmer.gif?raw=true" width="320" />
 
 ### 👋 Hi! I am Mehmet Nuri 
 
