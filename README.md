@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br/>
 
 ### :point_down: Where to find me  
-<img align="center" alt="linkedin" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>   [LinkedIn](www.linkedin.com/in/mehmet-nuri-demirr/) 
+<img align="center" alt="linkedin" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>   [LinkedIn](https://www.linkedin.com/in/mehmet-nuri-demirr/) 
 <img align="center" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />   [Gmail](mailto:mehmetnuridemirr@gmail.com) 
 <img align="center" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" />       [Twitter](https://twitter.com/mnuridmr) 
 <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" />   [HackerRank](https://www.hackerrank.com/mehmetnuridemirr) 
