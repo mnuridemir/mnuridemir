@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
  :mortar_board: I am a Computer Engineer  
  :running: I constantly improving myself in Full-Stack Development  
- :beginner: I currently learning HTML5, CSS3, JavaScript, NodeJS, ReactJS  
+ :beginner: I currently learning HTML5, CSS3, JavaScript, ReactJS, Golang  
  <br/>
  <br/>
  
     
 ### :pushpin: The Goals of 2022  
-:tada: Concentrating on JavaScript, React.js, Node.js  
+:tada: Concentrating on JavaScript, React.js, Golang  
 :tada: Get a job opportunity    
 <br/> 
 
